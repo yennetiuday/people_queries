@@ -1,6 +1,6 @@
 # People Queries Spring Boot Application
 
-This is a Java Spring Boot application. The application allows users to upload CSV files of Persons data as Multipart files saved the data to postgres database and query the data based on specific criteria and retrieve filtered results.
+This is a Java Spring Boot application. The application allows users to upload CSV files of Persons data as Multipart files saves the data to postgres database and query the data based on specific criteria and retrieve filtered results.
 
 ## Requirements
 
